@@ -4,5 +4,5 @@ another option to locate book metadata.
 
 ## Installation
 1. ./build.sh
-2. copy the file build/openlibrary.py into the python calibreweb module install directory (e.g. /opt/venv/lib/python3.11/site-packages/calibreweb/cps/metadata_providers)
+2. copy the file build/openlibrary.py into the python calibreweb module install directory (e.g. /opt/venv/lib/python3.11/site-packages/calibreweb/cps/metadata_providers). See https://stackoverflow.com/questions/247770/how-to-retrieve-a-modules-path for how to locate the install path for the module on your system.
 3. restart the calibre-web service `sudo systemctl restart cps`
