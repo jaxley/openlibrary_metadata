@@ -1,0 +1,3114 @@
+{
+    "numFound": 774,
+    "start": 0,
+    "numFoundExact": true,
+    "num_found": 774,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "lord of the rings",
+    "offset": null,
+    "docs": [
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 14625765,
+            "first_publish_year": 1954,
+            "key": "/works/OL27448W",
+            "title": "The Lord of the Rings",
+            "ratings_average": 4.5172415,
+            "editions": {
+                "numFound": 207,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL51711484M",
+                        "title": "The Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2003"
+                        ],
+                        "isbn": [
+                            "0618343997",
+                            "9780618343997"
+                        ],
+                        "ia": [
+                            "lordofrings00tolk_5"
+                        ],
+                        "publisher_facet": [
+                            "Houghton Mifflin Company"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 14627060,
+            "first_publish_year": 1954,
+            "key": "/works/OL27513W",
+            "title": "The Fellowship of the Ring",
+            "ratings_average": 4.3735633,
+            "editions": {
+                "numFound": 208,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL24373119M",
+                        "title": "The Fellowship of the Ring",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1984-03"
+                        ],
+                        "isbn": [
+                            "9780345296054",
+                            "0345296052"
+                        ],
+                        "ia": [
+                            "fellowshipofring01tolk"
+                        ],
+                        "publisher_facet": [
+                            "Ballantine Books"
+                        ],
+                        "description": "QUEST PERILOUS\r\nThe dark fearsome Ringwraiths were searching for a hobbit. Frodo Baggins knew they were seeking him and the Ring he bore - the Ring of Power that would enable evil Sauron to destroy all that was good in Middle-earth. Now it was up to Frodo and his faithful servant Sam, with a small band of companions, to carry the Ring to the one place it could be destroyed - Mount Doom, in the very center of Sauron's dark kingdom.\r\n\r\n--back cover"
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 14627564,
+            "first_publish_year": 1954,
+            "key": "/works/OL27479W",
+            "title": "The Two Towers",
+            "ratings_average": 4.3640776,
+            "editions": {
+                "numFound": 181,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL26446094M",
+                        "title": "The Two Towers",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1967"
+                        ],
+                        "ia": [
+                            "twotowersbeingse00tolk_5"
+                        ],
+                        "publisher_facet": [
+                            "Houghton Mifflin Company"
+                        ],
+                        "description": "After losing Gandalf and being divided from their other companions during an Orc attack, Frodo and Sam continue towards Mordor, Land of the Enemy, to destroy the Ring, accompanied only by a mysterious figure that follows them."
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 14627062,
+            "first_publish_year": 1950,
+            "key": "/works/OL27455W",
+            "title": "The Return of the King",
+            "ratings_average": 4.3854165,
+            "editions": {
+                "numFound": 201,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL10682515M",
+                        "title": "The Return of the King",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1976-03"
+                        ],
+                        "isbn": [
+                            "9780345253453",
+                            "0345253450"
+                        ],
+                        "ia": [
+                            "lccn_0345253450195"
+                        ],
+                        "publisher_facet": [
+                            "Ballantine Books"
+                        ],
+                        "description": "The Return of the King is the towering climax to J. R, R, Tolkien's trilogy, \"The Lord of the Rings.\" In these three volumes, which form one continuous narrative, Tolkien created the saga of the hobbits of Middle-earth and the Great War of the Rings.\r\n--back cover"
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 255844,
+            "first_publish_year": 1979,
+            "key": "/works/OL14926019W",
+            "title": "Novels (Hobbit / Lord of the Rings)",
+            "ratings_average": 4.571429,
+            "editions": {
+                "numFound": 23,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL9216964M",
+                        "title": "The Lord of the Rings & The Hobbit",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "October 7, 2002"
+                        ],
+                        "isbn": [
+                            "9780007144082",
+                            "0007144083"
+                        ],
+                        "publisher_facet": [
+                            "Collins"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Phil Anderson",
+                "Philip A. Anderson"
+            ],
+            "cover_i": 1576186,
+            "first_publish_year": 2006,
+            "key": "/works/OL2089932W",
+            "title": "The Lord of the Ring",
+            "editions": {
+                "numFound": 3,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL8184572M",
+                        "title": "The Lord of the Ring",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "April 5, 2007"
+                        ],
+                        "isbn": [
+                            "9780830743278",
+                            "0830743278"
+                        ],
+                        "ia": [
+                            "lordofring0000ande"
+                        ],
+                        "publisher_facet": [
+                            "Regal Books"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Henry Beard",
+                "Harvard Lampoon",
+                "Douglas C. Kenney",
+                "Jean Little",
+                "Jim Meskimen"
+            ],
+            "cover_i": 380223,
+            "first_publish_year": 1969,
+            "key": "/works/OL1939708W",
+            "title": "Bored of the Rings",
+            "ratings_average": 2.0,
+            "editions": {
+                "numFound": 26,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL7878688M",
+                        "title": "Bored of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "September 6, 2001"
+                        ],
+                        "isbn": [
+                            "9780575073623",
+                            "0575073624"
+                        ],
+                        "ia": [
+                            "boredofringsparo0000bear"
+                        ],
+                        "publisher_facet": [
+                            "Gollancz",
+                            "Orion Pub Co"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 14627509,
+            "first_publish_year": 1937,
+            "key": "/works/OL27482W",
+            "title": "The Hobbit",
+            "ratings_average": 4.276549,
+            "editions": {
+                "numFound": 259,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL24946057M",
+                        "title": "The hobbit",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2001?"
+                        ],
+                        "isbn": [
+                            "9780345339683",
+                            "0345339681"
+                        ],
+                        "ia": [
+                            "hobbitpart2tolk"
+                        ],
+                        "publisher_facet": [
+                            "Ballantine Books"
+                        ],
+                        "description": "The imperishable world of fantasy called Middle-earth and those charming, indomitable creatures, the hobbits, whose adventures are continued in \"The Lord of the Rings.\""
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Cedco Publishing"
+            ],
+            "cover_i": 1454705,
+            "first_publish_year": 2001,
+            "key": "/works/OL8527426W",
+            "title": "Lord of the Rings",
+            "ratings_average": 5.0,
+            "editions": {
+                "numFound": 5,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL10957364M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "October 2001"
+                        ],
+                        "isbn": [
+                            "9780768325232",
+                            "0768325234"
+                        ],
+                        "publisher_facet": [
+                            "Cedco Publishing Company"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Jim Pendrill"
+            ],
+            "key": "/works/OL12413029W",
+            "title": "Lord of the rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL22643577M",
+                        "title": "Lord of the rings.",
+                        "language": [
+                            "eng"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Brian Sibley"
+            ],
+            "cover_i": 393721,
+            "first_publish_year": 2001,
+            "key": "/works/OL3062799W",
+            "title": "The lord of the rings",
+            "editions": {
+                "numFound": 3,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL3953584M",
+                        "title": "The lord of the rings.",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2001"
+                        ],
+                        "isbn": [
+                            "0618195599",
+                            "9780618195596"
+                        ],
+                        "ia": [
+                            "lordofringsinsid00sibl"
+                        ],
+                        "publisher_facet": [
+                            "Houghton Mifflin",
+                            "Mariner Books"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Cedco Publishing"
+            ],
+            "cover_i": 528867,
+            "first_publish_year": 2004,
+            "key": "/works/OL34315353W",
+            "title": "The Lord of the Rings Trilogy",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL8065495M",
+                        "title": "The Lord of the Rings Trilogy (Lord of the Rings)",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "September 2004"
+                        ],
+                        "isbn": [
+                            "9780768370195",
+                            "0768370191"
+                        ],
+                        "publisher_facet": [
+                            "Cedco Publishing Company"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Chris Conkling",
+                "Peter S. Beagle"
+            ],
+            "first_publish_year": 1979,
+            "key": "/works/OL18146933W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL20098346M",
+                        "title": "The lord of the rings.",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1979"
+                        ],
+                        "publisher_facet": [
+                            "Fotonovel Publications"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien",
+                "Christopher Tolkien"
+            ],
+            "cover_i": 14625634,
+            "first_publish_year": 1990,
+            "key": "/works/OL27491W",
+            "title": "The War of the Ring",
+            "editions": {
+                "numFound": 14,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL7603614M",
+                        "title": "The War of the Ring",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2000"
+                        ],
+                        "isbn": [
+                            "9780618083596",
+                            "0618083596"
+                        ],
+                        "ia": [
+                            "warofring0000tolk"
+                        ],
+                        "publisher_facet": [
+                            "Houghton Mifflin Company"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Bruce Blackadar"
+            ],
+            "cover_i": 13340334,
+            "first_publish_year": 1987,
+            "key": "/works/OL20652017W",
+            "title": "Lords of the Ring",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL11445939M",
+                        "title": "Lords of the Ring",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1987"
+                        ],
+                        "isbn": [
+                            "9780921014041",
+                            "092101404X"
+                        ],
+                        "publisher_facet": [
+                            "Pulse"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "key": "/works/OL31711215W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL43398341M",
+                        "title": "Lord of the Rings",
+                        "isbn": [
+                            "9780780643321",
+                            "0780643321"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "BookCaps Study Guides Staff"
+            ],
+            "first_publish_year": 2012,
+            "key": "/works/OL39927782W",
+            "title": "Lord of the Rings Companion",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL54366606M",
+                        "title": "Lord of the Rings Companion",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2012"
+                        ],
+                        "isbn": [
+                            "9781470103934",
+                            "1470103931"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Butcher MARTESHA"
+            ],
+            "first_publish_year": 2021,
+            "key": "/works/OL36351249W",
+            "title": "Lord of the Rings Film Facts : Everything for the Lord of the Rings Fans",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL49116592M",
+                        "title": "Lord of the Rings Film Facts : Everything for the Lord of the Rings Fans",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2021"
+                        ],
+                        "isbn": [
+                            "9798481503844"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Taylor MAELEE"
+            ],
+            "first_publish_year": 2021,
+            "key": "/works/OL26009314W",
+            "title": "Lord of the Rings Trivia : the Lord of the Rings Facts and Quizzes",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL35105409M",
+                        "title": "Lord of the Rings Trivia : the Lord of the Rings Facts and Quizzes",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2021"
+                        ],
+                        "isbn": [
+                            "9798516629525"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Ian Brodie"
+            ],
+            "cover_i": 11406366,
+            "first_publish_year": 2002,
+            "key": "/works/OL12693815W",
+            "title": "The Lord of the rings location guidebook",
+            "editions": {
+                "numFound": 5,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL21992239M",
+                        "title": "The Lord of the rings location guidebook.",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2002"
+                        ],
+                        "isbn": [
+                            "1869504526",
+                            "9781869504526"
+                        ],
+                        "ia": [
+                            "lordofringslocat0000brod"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins",
+                            "HarperCollins Publishers Ltd"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Prima Temp Authors Staff",
+                "Prima Games Staff"
+            ],
+            "first_publish_year": 2004,
+            "key": "/works/OL25353670W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL33970746M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2004"
+                        ],
+                        "isbn": [
+                            "9780761544333",
+                            "076154433X"
+                        ],
+                        "publisher_facet": [
+                            "Random House Information Group"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Betsy Gallup"
+            ],
+            "cover_i": 1972472,
+            "first_publish_year": 2006,
+            "key": "/works/OL9262013W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL9729713M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "March 1, 2006"
+                        ],
+                        "isbn": [
+                            "9781590921371",
+                            "1590921372"
+                        ],
+                        "publisher_facet": [
+                            "Lightning Rod, a Division of Windstorm Creative"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Elijah Wood"
+            ],
+            "first_publish_year": 2010,
+            "key": "/works/OL33984094W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL45976563M",
+                        "title": "Lord of the Rings",
+                        "publish_date": [
+                            "2010-02-24"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Harry Lansdown",
+                "Alex Spillius"
+            ],
+            "first_publish_year": 1991,
+            "key": "/works/OL9356256W",
+            "title": "Lords of the ring",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL10222173M",
+                        "title": "Lords of the Ring",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "September 1991"
+                        ],
+                        "isbn": [
+                            "9780434738762",
+                            "043473876X"
+                        ],
+                        "publisher_facet": [
+                            "William Heinemann Ltd"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "first_publish_year": 2024,
+            "key": "/works/OL42558748W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL57770615M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2024"
+                        ],
+                        "isbn": [
+                            "9781917100007",
+                            "1917100000"
+                        ],
+                        "publisher_facet": [
+                            "Warwick International Publishing House Ltd"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Jane Chance",
+                "Jane Chance"
+            ],
+            "cover_i": 583487,
+            "first_publish_year": 1992,
+            "key": "/works/OL3469307W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 5,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL1700996M",
+                        "title": "The Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1992"
+                        ],
+                        "isbn": [
+                            "0805794417",
+                            "080578571X",
+                            "9780805794410",
+                            "9780805785715"
+                        ],
+                        "ia": [
+                            "lordofringst00chan"
+                        ],
+                        "publisher_facet": [
+                            "Maxwell Macmillan Canada",
+                            "Maxwell Macmillan International",
+                            "Twayne Publishers"
+                        ],
+                        "description": "Essays designed to help you understand and appreciate the mythology of Tolkien's epic, The lord of the rings."
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 8220055,
+            "first_publish_year": 1988,
+            "key": "/works/OL27508W",
+            "title": "The Return of the Shadow",
+            "ratings_average": 4.0,
+            "editions": {
+                "numFound": 13,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL22855921M",
+                        "title": "The return of the shadow",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1990"
+                        ],
+                        "isbn": [
+                            "004440669X",
+                            "9780044406693"
+                        ],
+                        "ia": [
+                            "returnofshadowhi0000tolk"
+                        ],
+                        "publisher_facet": [
+                            "Unwin Paperbacks"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Edwin Penfold"
+            ],
+            "first_publish_year": 2019,
+            "key": "/works/OL30485058W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL41909948M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2019"
+                        ],
+                        "isbn": [
+                            "9781712788691",
+                            "1712788698"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "George Duckett"
+            ],
+            "first_publish_year": 2016,
+            "key": "/works/OL40339856W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL54870186M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2016"
+                        ],
+                        "isbn": [
+                            "9781533444127",
+                            "1533444129"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Duncan Scott"
+            ],
+            "first_publish_year": 2014,
+            "key": "/works/OL41480624W",
+            "title": "Lord of the Rings Trilogy : the Language",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL56335291M",
+                        "title": "Lord of the Rings Trilogy : the Language",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2014"
+                        ],
+                        "isbn": [
+                            "9781499335248",
+                            "1499335245"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Patrick Gardner"
+            ],
+            "cover_i": 4853661,
+            "first_publish_year": 2002,
+            "key": "/works/OL14933438W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL8821524M",
+                        "title": "The Lord of the Rings (Spark Notes)",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "September 1, 2002"
+                        ],
+                        "isbn": [
+                            "9781586637903",
+                            "1586637908"
+                        ],
+                        "publisher_facet": [
+                            "SparkNotes"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Insights"
+            ],
+            "first_publish_year": 2023,
+            "key": "/works/OL34507831W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL46810098M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2023"
+                        ],
+                        "isbn": [
+                            "9798886632552"
+                        ],
+                        "publisher_facet": [
+                            "Insight Editions"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Wayne G. Hammond",
+                "Christina Scull"
+            ],
+            "cover_i": 395072,
+            "first_publish_year": 2005,
+            "key": "/works/OL548432W",
+            "subtitle": "A Reader's Companion",
+            "title": "The lord of the rings",
+            "ratings_average": 5.0,
+            "editions": {
+                "numFound": 4,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL26236285M",
+                        "title": "The Lord of The Rings",
+                        "publish_date": [
+                            "2008"
+                        ],
+                        "isbn": [
+                            "9780007270606",
+                            "0007270607"
+                        ],
+                        "ia": [
+                            "lordofringsreade0000hamm"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins",
+                            "HarperCollins Publishers Ltd."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J. R. R. Tolkien",
+                "Alan Lee"
+            ],
+            "first_publish_year": 1992,
+            "key": "/works/OL38128342W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL54024072M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1992"
+                        ],
+                        "isbn": [
+                            "9780261102996",
+                            "0261102990"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins Publishers Limited"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "cover_i": 528851,
+            "first_publish_year": 2001,
+            "key": "/works/OL36522908W",
+            "title": "Lord of the Rings Arwen Journal",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL8065476M",
+                        "title": "The Lord of the Rings Jounal",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "October 2001"
+                        ],
+                        "isbn": [
+                            "9780768325263",
+                            "0768325269"
+                        ],
+                        "publisher_facet": [
+                            "Cedco Publishing Company"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "first_publish_year": 1930,
+            "key": "/works/OL32236407W",
+            "title": "Zhi huan mo",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL43980960M",
+                        "title": "Zhi huan mo",
+                        "language": [
+                            "chi"
+                        ],
+                        "publish_date": [
+                            "1930"
+                        ],
+                        "publisher_facet": [
+                            "Zhonghua shu ju"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Harold Bloom"
+            ],
+            "cover_i": 555542,
+            "first_publish_year": 2000,
+            "key": "/works/OL14933408W",
+            "title": "J. R. R. Tolkien's The Lord of the Rings",
+            "editions": {
+                "numFound": 3,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL49430M",
+                        "title": "J.R.R. Tolkien's the Lord of the rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2000"
+                        ],
+                        "isbn": [
+                            "0791056651",
+                            "9780791056653"
+                        ],
+                        "ia": [
+                            "jrrtolkienslord00bloo"
+                        ],
+                        "publisher_facet": [
+                            "Chelsea House Publishers"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "SuperSummary"
+            ],
+            "cover_i": 12366237,
+            "first_publish_year": 2017,
+            "key": "/works/OL21868175W",
+            "title": "Study Guide",
+            "ratings_average": 3.5,
+            "editions": {
+                "numFound": 282,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL38135459M",
+                        "title": "Study Guide",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2019"
+                        ],
+                        "isbn": [
+                            "9781075401138",
+                            "1075401135"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published",
+                            "Independently published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Jude Fisher"
+            ],
+            "cover_i": 393983,
+            "first_publish_year": 2001,
+            "key": "/works/OL5753836W",
+            "title": "The lord of the rings",
+            "ratings_average": 5.0,
+            "editions": {
+                "numFound": 3,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL3949131M",
+                        "title": "The lord of the rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2001"
+                        ],
+                        "isbn": [
+                            "0618154019",
+                            "9780618154012"
+                        ],
+                        "ia": [
+                            "lordofringsfello00fish"
+                        ],
+                        "publisher_facet": [
+                            "Houghton Mifflin"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Carla Fritsch"
+            ],
+            "first_publish_year": 2004,
+            "key": "/works/OL9838681W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL12120485M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "February 28, 2004"
+                        ],
+                        "isbn": [
+                            "9781560771371",
+                            "1560771372"
+                        ],
+                        "publisher_facet": [
+                            "Center for Learning"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Lansdown"
+            ],
+            "first_publish_year": 1999,
+            "key": "/works/OL29335928W",
+            "title": "Lords of the Ring",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL40331493M",
+                        "title": "Lords of the Ring",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1999"
+                        ],
+                        "isbn": [
+                            "9780749308957",
+                            "0749308958"
+                        ],
+                        "publisher_facet": [
+                            "Penguin Random House"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "key": "/works/OL38061742W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL51701137M",
+                        "title": "Lord of the Rings",
+                        "isbn": [
+                            "9780089752007",
+                            "0089752007"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "V. K. VIJAY"
+            ],
+            "first_publish_year": 2021,
+            "key": "/works/OL36274175W",
+            "title": "Lord of the Ring's",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL49015361M",
+                        "title": "Lord of the Ring's",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2021"
+                        ],
+                        "isbn": [
+                            "9798460894079"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Nameless"
+            ],
+            "first_publish_year": 2013,
+            "key": "/works/OL41780195W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL56729440M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "gre"
+                        ],
+                        "publish_date": [
+                            "2013"
+                        ],
+                        "isbn": [
+                            "9781493598649",
+                            "1493598643"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "jude Fisher"
+            ],
+            "key": "/works/OL13754671W",
+            "title": "Lord of the rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL23126486M",
+                        "title": "Lord of the rings"
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Bo Hansson"
+            ],
+            "key": "/works/OL13508175W",
+            "title": "Lord of the rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL21964564M",
+                        "title": "Lord of the rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publisher_facet": [
+                            "CHARISMA [CAS1059."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Various Artists"
+            ],
+            "first_publish_year": 2002,
+            "key": "/works/OL10069759W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL12789685M",
+                        "title": "Lord of the Rings",
+                        "publish_date": [
+                            "October 31, 2002"
+                        ],
+                        "isbn": [
+                            "9786307245993",
+                            "6307245999"
+                        ],
+                        "publisher_facet": [
+                            "MSI MUSIC"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Peter Corris"
+            ],
+            "first_publish_year": 1980,
+            "key": "/works/OL1698390W",
+            "title": "Lords of the ring",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL7866471M",
+                        "title": "Lords of the ring",
+                        "publish_date": [
+                            "1980"
+                        ],
+                        "isbn": [
+                            "0726913952",
+                            "9780726913952"
+                        ],
+                        "publisher_facet": [
+                            "Cassell Australia"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "William Wilson"
+            ],
+            "first_publish_year": 2014,
+            "key": "/works/OL41346688W",
+            "title": "Lord of the Rings Roleplay",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL56160245M",
+                        "title": "Lord of the Rings Roleplay",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2014"
+                        ],
+                        "isbn": [
+                            "9781495930829",
+                            "1495930823"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Top 50 Facts Staff"
+            ],
+            "first_publish_year": 2014,
+            "key": "/works/OL41421108W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL56256127M",
+                        "title": "Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2014"
+                        ],
+                        "isbn": [
+                            "9781503288874",
+                            "1503288870"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Rolf Witzsche"
+            ],
+            "first_publish_year": 2016,
+            "key": "/works/OL41603490W",
+            "title": "Lord of the Rings' Metaphors",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL56494655M",
+                        "title": "Lord of the Rings' Metaphors",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2016"
+                        ],
+                        "isbn": [
+                            "9781535587310",
+                            "1535587318"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Gary Russell"
+            ],
+            "cover_i": 12822,
+            "first_publish_year": 2004,
+            "key": "/works/OL5758761W",
+            "title": "The Art of the \"Lord of the Rings\" Trilogy (\"Lord of the Rings\")",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL9218391M",
+                        "title": "The Art of the \"Lord of the Rings\" Trilogy (\"Lord of the Rings\")",
+                        "publish_date": [
+                            "November 1, 2004"
+                        ],
+                        "isbn": [
+                            "9780007191925",
+                            "0007191928"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins Publishers Ltd"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 149269,
+            "first_publish_year": 1994,
+            "key": "/works/OL27453W",
+            "title": "Poems from The lord of the rings",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL19581879M",
+                        "title": "Poems from The lord of the rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2002"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Alessio Cavatore",
+                "Rick Priestley"
+            ],
+            "cover_i": 6987479,
+            "first_publish_year": 2003,
+            "key": "/works/OL16287785W",
+            "title": "The Lord of the Rings - The Two Towers",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL8920312M",
+                        "title": "The Lord of The Rings",
+                        "publish_date": [
+                            "September 30, 2003"
+                        ],
+                        "isbn": [
+                            "9781841542850",
+                            "1841542857"
+                        ],
+                        "ia": [
+                            "lordofringstwoto00cava"
+                        ],
+                        "publisher_facet": [
+                            "Games Workshop"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Liv Tyler",
+                "Cate Blanchett",
+                "Peter Jackson"
+            ],
+            "first_publish_year": 2002,
+            "key": "/works/OL28758970W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL39470022M",
+                        "title": "The Lord of the Rings",
+                        "publish_date": [
+                            "Aug 20, 2002"
+                        ],
+                        "isbn": [
+                            "9780780637023",
+                            "078063702X"
+                        ],
+                        "publisher_facet": [
+                            "New Line Home Entertainment"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "key": "/works/OL39009766W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL53115202M",
+                        "title": "The Lord of the Rings",
+                        "isbn": [
+                            "5017239191718"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Elijah Wood"
+            ],
+            "key": "/works/OL33918153W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL45904953M",
+                        "title": "The Lord of the Rings"
+                    }
+                ]
+            }
+        },
+        {
+            "first_publish_year": 2012,
+            "key": "/works/OL33733658W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL45700825M",
+                        "title": "The Lord of the Rings",
+                        "publish_date": [
+                            "2012-01-31"
+                        ],
+                        "isbn": [
+                            "0794043554223"
+                        ],
+                        "publisher_facet": [
+                            "New Line Home Video"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "first_publish_year": 2003,
+            "key": "/works/OL33887017W",
+            "title": "THE LORD OF THE RINGS",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL45871040M",
+                        "title": "THE LORD OF THE RINGS",
+                        "publish_date": [
+                            "2003-01-01"
+                        ],
+                        "publisher_facet": [
+                            "WS"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "cover_i": 13974997,
+            "key": "/works/OL35013811W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL47380577M",
+                        "title": "The Lord of the Rings",
+                        "isbn": [
+                            "9780563494850",
+                            "0563494859"
+                        ],
+                        "publisher_facet": [
+                            "Bbc Book Pub"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Vyv Simson",
+                "Andrew Jennings"
+            ],
+            "first_publish_year": 1992,
+            "key": "/works/OL8270320W",
+            "title": "The lords of the rings",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL51316712M",
+                        "title": "Lords of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1992"
+                        ],
+                        "isbn": [
+                            "9780671712259",
+                            "067171225X"
+                        ],
+                        "publisher_facet": [
+                            "Simon & Schuster, Limited"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Peter Arnold"
+            ],
+            "cover_i": 2539329,
+            "first_publish_year": 1998,
+            "key": "/works/OL7284693W",
+            "title": "Lords of the Ring",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL10918978M",
+                        "title": "Lords of the Ring",
+                        "publish_date": [
+                            "August 15, 1998"
+                        ],
+                        "isbn": [
+                            "9780600595205",
+                            "060059520X"
+                        ],
+                        "ia": [
+                            "lordsofringgreat0000arno"
+                        ],
+                        "publisher_facet": [
+                            "Hamlyn"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Wendy Conklin"
+            ],
+            "key": "/works/OL8120484W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL12307327M",
+                        "title": "The Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "isbn": [
+                            "9781931334709",
+                            "1931334706"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Stratford Caldecott",
+                "Thomas Honegger"
+            ],
+            "cover_i": 13113906,
+            "first_publish_year": 2008,
+            "key": "/works/OL19929882W",
+            "title": "Tolkien's The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL27110720M",
+                        "title": "Tolkien's The Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2008"
+                        ],
+                        "isbn": [
+                            "9783905703122",
+                            "3905703122"
+                        ],
+                        "ia": [
+                            "tolkienslordofri0000unse"
+                        ],
+                        "publisher_facet": [
+                            "Walking Tree Publisher",
+                            "Walking Tree Publishers"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Elijah Wood"
+            ],
+            "first_publish_year": 2011,
+            "key": "/works/OL33886826W",
+            "title": "Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL45870844M",
+                        "title": "Lord of the Rings",
+                        "publish_date": [
+                            "2011-06-08"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Howard Shore",
+                "Dan Coates"
+            ],
+            "cover_i": 1416292,
+            "first_publish_year": 2004,
+            "key": "/works/OL26527525W",
+            "title": "Lord of the Rings Trilogy",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL8005731M",
+                        "title": "The Lord of the Rings for Easy Piano",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "December 13, 2004"
+                        ],
+                        "isbn": [
+                            "9780757924149",
+                            "075792414X"
+                        ],
+                        "publisher_facet": [
+                            "Alfred Music",
+                            "Warner Bros. Publications"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Jennifer Georgic"
+            ],
+            "first_publish_year": 2021,
+            "key": "/works/OL26674226W",
+            "title": "Lord of the Rings Food Recipes : the Perfect Lord of the Rings Party Diet",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL36115821M",
+                        "title": "Lord of the Rings Food Recipes : the Perfect Lord of the Rings Party Diet",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2021"
+                        ],
+                        "isbn": [
+                            "9798503583168"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 12928339,
+            "first_publish_year": 2002,
+            "key": "/works/OL38058352W",
+            "title": "\ubc18\uc9c0\uc758\uc81c\uc655 1",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL39810596M",
+                        "title": "\ubc18\uc9c0\uc758\uc81c\uc655",
+                        "language": [
+                            "kor"
+                        ],
+                        "publish_date": [
+                            "2002"
+                        ],
+                        "isbn": [
+                            "9788956372051",
+                            "8956372055"
+                        ],
+                        "ia": [
+                            "panjiuichewang0000tolk"
+                        ],
+                        "publisher_facet": [
+                            "Ssiat \u016dl Ppurin\u016dn Saram"
+                        ],
+                        "description": "An epic detailing the Great War of the Ring, a struggle between good and evil in Middle-Earth, in which the tiny Hobbits play a key role."
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkein"
+            ],
+            "first_publish_year": 1978,
+            "key": "/works/OL34714467W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL47057989M",
+                        "title": "The Lord of the Rings",
+                        "publish_date": [
+                            "1978-01-01"
+                        ],
+                        "isbn": [
+                            "9780048231352",
+                            "0048231355"
+                        ],
+                        "publisher_facet": [
+                            "Unwin"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "David Brawn"
+            ],
+            "cover_i": 10449,
+            "first_publish_year": 2002,
+            "key": "/works/OL13513933W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 3,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL7262250M",
+                        "title": "The \"Two Towers\" Creatures Guide (\"Lord of the Rings\")",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "November 6, 2002"
+                        ],
+                        "isbn": [
+                            "9780007144099",
+                            "0007144091"
+                        ],
+                        "publisher_facet": [
+                            "Collins"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Ian Brodie"
+            ],
+            "cover_i": 8332180,
+            "first_publish_year": 2003,
+            "key": "/works/OL6057400W",
+            "subtitle": "location guidebook",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL26645000M",
+                        "title": "The Lord of the Rings location guidebook",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2004"
+                        ],
+                        "isbn": [
+                            "9781869505301",
+                            "1869505301"
+                        ],
+                        "ia": [
+                            "isbn_9781869505301"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Brian Sibley"
+            ],
+            "cover_i": 393992,
+            "first_publish_year": 2002,
+            "key": "/works/OL3062780W",
+            "title": "The Lord of the Rings",
+            "ratings_average": 4.5,
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL3700728M",
+                        "title": "The Lord of the Rings: The Making of the Movie Trilogy",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2002"
+                        ],
+                        "isbn": [
+                            "0618258000",
+                            "0618260226",
+                            "9780618258000",
+                            "9780618260225"
+                        ],
+                        "publisher_facet": [
+                            "Houghton Mifflin Company"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "The Lord Of The Rings Publishing"
+            ],
+            "first_publish_year": 2021,
+            "key": "/works/OL27658078W",
+            "title": "Official the l\u00f4rd of the R\u00eengs 2022 Calendar",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL37711595M",
+                        "title": "Official the l\u00f4rd of the R\u00eengs 2022 Calendar",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2021"
+                        ],
+                        "isbn": [
+                            "9798786358774"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Cedco Publishing"
+            ],
+            "cover_i": 528861,
+            "first_publish_year": 2002,
+            "key": "/works/OL8527355W",
+            "title": "The Lord of the Rings, Fellowship of the Ring 2003 Daily Calendar (Lord of the Rings)",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL8065489M",
+                        "title": "The Lord of the Rings, Fellowship of the Ring 2003 Daily Calendar (Lord of the Rings)",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "December 2002"
+                        ],
+                        "isbn": [
+                            "9780768357615",
+                            "0768357616"
+                        ],
+                        "publisher_facet": [
+                            "Cedco Publishing Company"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Howard Shore"
+            ],
+            "cover_i": 1416148,
+            "first_publish_year": 2004,
+            "key": "/works/OL8488048W",
+            "title": "Lord of the Rings Instrumental Solos",
+            "editions": {
+                "numFound": 5,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL8005591M",
+                        "title": "Lord of the Rings Instrumental Solos",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "August 2004"
+                        ],
+                        "isbn": [
+                            "9780757916588",
+                            "0757916589"
+                        ],
+                        "publisher_facet": [
+                            "Warner Bros. Publications"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "cover_i": 8406792,
+            "first_publish_year": 1999,
+            "key": "/works/OL27438W",
+            "title": "The Lord of the Rings. Appendices",
+            "ratings_average": 4.0,
+            "editions": {
+                "numFound": 7,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL44095980M",
+                        "title": "Lord of the Rings : Appendices",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2001"
+                        ],
+                        "isbn": [
+                            "9780007635566",
+                            "0007635567"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins Publishers Limited"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "West LISA"
+            ],
+            "first_publish_year": 2021,
+            "key": "/works/OL27209662W",
+            "title": "Lord of the Rings Handbook : Everything You Need to Know about the Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL36932628M",
+                        "title": "Lord of the Rings Handbook : Everything You Need to Know about the Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2021"
+                        ],
+                        "isbn": [
+                            "9798774588732"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "New Line Cinema"
+            ],
+            "cover_i": 8986062,
+            "first_publish_year": 2014,
+            "key": "/works/OL20324134W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL27530098M",
+                        "title": "The Lord of the Rings",
+                        "publish_date": [
+                            "Jul 15, 2014"
+                        ],
+                        "isbn": [
+                            "9781608873821",
+                            "160887382X"
+                        ],
+                        "publisher_facet": [
+                            "Insights"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "cover_i": 8938516,
+            "key": "/works/OL20280520W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 0,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": []
+            }
+        },
+        {
+            "author_name": [
+                "various "
+            ],
+            "first_publish_year": 2005,
+            "key": "/works/OL43040142W",
+            "title": "The lord of the rings ",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL58631353M",
+                        "title": "The lord of the rings ",
+                        "publish_date": [
+                            "2005"
+                        ],
+                        "ia": [
+                            "bwb_KT-585-798"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Brendan O'Halloran"
+            ],
+            "first_publish_year": 2016,
+            "key": "/works/OL41254890W",
+            "title": "Lord of the Rings/the Hobbit",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL56039015M",
+                        "title": "Lord of the Rings/the Hobbit",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2016"
+                        ],
+                        "isbn": [
+                            "9781539508090",
+                            "1539508099"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Howard Shore"
+            ],
+            "cover_i": 2601070,
+            "first_publish_year": 2004,
+            "key": "/works/OL8488047W",
+            "title": "Lord of the Rings Instrumental",
+            "editions": {
+                "numFound": 3,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL10872494M",
+                        "title": "Lord of the Rings Instrumental",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "August 2004"
+                        ],
+                        "isbn": [
+                            "9780757923272",
+                            "0757923275"
+                        ],
+                        "publisher_facet": [
+                            "Warner Bros. Publications"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Enjoy Coloring"
+            ],
+            "first_publish_year": 2020,
+            "key": "/works/OL22260282W",
+            "title": "Lord of the Rings Coloring Book",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL30325676M",
+                        "title": "Lord of the Rings Coloring Book",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2020"
+                        ],
+                        "isbn": [
+                            "9798656121118"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Hoomes RACHAEL"
+            ],
+            "first_publish_year": 2021,
+            "key": "/works/OL30976407W",
+            "title": "Lord of the Rings Cocktail : Wonderful Ideas You Need Know about Cocktail from Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL42550128M",
+                        "title": "Lord of the Rings Cocktail : Wonderful Ideas You Need Know about Cocktail from Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2021"
+                        ],
+                        "isbn": [
+                            "9798506890607"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Andy Serkis"
+            ],
+            "cover_i": 11903,
+            "first_publish_year": 2003,
+            "key": "/works/OL5754682W",
+            "title": "Gollum (\"Lord of the Rings\")",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL7263052M",
+                        "title": "Gollum (\"Lord of the Rings\")",
+                        "publish_date": [
+                            "December 1, 2003"
+                        ],
+                        "isbn": [
+                            "9780007170579",
+                            "0007170572"
+                        ],
+                        "publisher_facet": [
+                            "Collins"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Coles Editorial Board"
+            ],
+            "first_publish_year": 1979,
+            "key": "/works/OL18146934W",
+            "title": "The Lord of the Rings / The Hobbit",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL20513187M",
+                        "title": "The Lord of the Rings, The Hobbit",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1979"
+                        ],
+                        "publisher_facet": [
+                            "Coles"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Coloring Book"
+            ],
+            "first_publish_year": 2018,
+            "key": "/works/OL40945328W",
+            "title": "Lord of the Rings Coloring Book",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL55638616M",
+                        "title": "Lord of the Rings Coloring Book",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2018"
+                        ],
+                        "isbn": [
+                            "9781987694437",
+                            "1987694430"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Interplay"
+            ],
+            "key": "/works/OL9870213W",
+            "title": "Lord of the Rings Enhanced",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL12579408M",
+                        "title": "Lord of the Rings Enhanced",
+                        "isbn": [
+                            "9785555630117",
+                            "5555630115"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Alan Lee",
+                "J.R.R. Tolkien"
+            ],
+            "first_publish_year": 2006,
+            "key": "/works/OL32361656W",
+            "title": "Lord of the Rings 2007",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL44115091M",
+                        "title": "Lord of the Rings 2007",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2006"
+                        ],
+                        "isbn": [
+                            "9780007225644",
+                            "0007225644"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins Publishers Limited"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J. R. R. Tolkien"
+            ],
+            "first_publish_year": 2016,
+            "key": "/works/OL41602564W",
+            "title": "Lord of the Rings Trilogy",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL56493448M",
+                        "title": "Lord of the Rings Trilogy",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2016"
+                        ],
+                        "isbn": [
+                            "9781535116558",
+                            "1535116552"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Stuart Anderson"
+            ],
+            "first_publish_year": 2013,
+            "key": "/works/OL39832256W",
+            "title": "Lord of the Ring Dings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL54252270M",
+                        "title": "Lord of the Ring Dings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2013"
+                        ],
+                        "isbn": [
+                            "9781481072762",
+                            "1481072765"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Alan Lee"
+            ],
+            "first_publish_year": 2008,
+            "key": "/works/OL32378559W",
+            "title": "Lord of the Rings Sketchbook",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL44134839M",
+                        "title": "Lord of the Rings Sketchbook",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2008"
+                        ],
+                        "isbn": [
+                            "9780007284238",
+                            "0007284233"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins Publishers Limited"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Elijah Wood"
+            ],
+            "first_publish_year": 2010,
+            "key": "/works/OL33886823W",
+            "title": "The Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL45870841M",
+                        "title": "The Lord of the Rings",
+                        "publish_date": [
+                            "2010-02-10"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "BookCaps Study Guides Staff"
+            ],
+            "first_publish_year": 2012,
+            "key": "/works/OL40040707W",
+            "title": "Lord of the Rings Series",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL54503119M",
+                        "title": "Lord of the Rings Series",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2012"
+                        ],
+                        "isbn": [
+                            "9781475095951",
+                            "1475095953"
+                        ],
+                        "publisher_facet": [
+                            "CreateSpace Independent Publishing Platform"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Chris J Kranjc"
+            ],
+            "first_publish_year": 2022,
+            "key": "/works/OL31170313W",
+            "title": "Lord of the Rings Sheet Music",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL42815922M",
+                        "title": "Lord of the Rings Sheet Music",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2022"
+                        ],
+                        "isbn": [
+                            "9798357651365"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Susan Rosenkranz"
+            ],
+            "first_publish_year": 1988,
+            "key": "/works/OL4825661W",
+            "title": "Lord of the rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL2242338M",
+                        "title": "Lord of the rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "1988"
+                        ],
+                        "publisher_facet": [
+                            "Ringling Bros. and Barnum & Bailey Combined Shows"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Andrews McMeel Publishing"
+            ],
+            "cover_i": 1380164,
+            "first_publish_year": 2005,
+            "key": "/works/OL8436036W",
+            "title": "Art of the Lord of the Rings",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL9681472M",
+                        "title": "Art of the Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "July 1, 2005"
+                        ],
+                        "isbn": [
+                            "9780740751868",
+                            "0740751867"
+                        ],
+                        "publisher_facet": [
+                            "Andrews McMeel Publishing"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Gipson ROBERT"
+            ],
+            "first_publish_year": 2021,
+            "key": "/works/OL36220759W",
+            "title": "Lord of the Rings Trivia and Fun Facts : How Well Do You Know about the Lord of the Rings",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL48946580M",
+                        "title": "Lord of the Rings Trivia and Fun Facts : How Well Do You Know about the Lord of the Rings",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2021"
+                        ],
+                        "isbn": [
+                            "9798454526078"
+                        ],
+                        "publisher_facet": [
+                            "Independently Published"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "J.R.R. Tolkien"
+            ],
+            "first_publish_year": 2001,
+            "key": "/works/OL14933487W",
+            "title": "The Ring Goes East",
+            "editions": {
+                "numFound": 2,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL44095465M",
+                        "title": "Lord of the Rings : The Ring Goes East",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2001"
+                        ],
+                        "isbn": [
+                            "9780007635580",
+                            "0007635583"
+                        ],
+                        "publisher_facet": [
+                            "HarperCollins Publishers Limited"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "author_name": [
+                "Michael Searle"
+            ],
+            "cover_i": 11956849,
+            "first_publish_year": 2007,
+            "key": "/works/OL15588685W",
+            "title": "The Lord of the rings online",
+            "editions": {
+                "numFound": 1,
+                "start": 0,
+                "numFoundExact": true,
+                "docs": [
+                    {
+                        "key": "/books/OL24539982M",
+                        "title": "The Lord of the rings online",
+                        "language": [
+                            "eng"
+                        ],
+                        "publish_date": [
+                            "2007"
+                        ],
+                        "isbn": [
+                            "9780761553304",
+                            "050694161266",
+                            "0761553304"
+                        ],
+                        "ia": [
+                            "lordofringsonlin0000sear_y2n6"
+                        ],
+                        "publisher_facet": [
+                            "Prima Publ."
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

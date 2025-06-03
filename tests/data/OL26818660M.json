@@ -1,0 +1,167 @@
+{
+  "publishers": [
+    "Tor.com"
+  ],
+  "source_records": [
+    "amazon:B01MYZ8X5C",
+    "bwb:9780765397522",
+    "amazon:0765397528"
+  ],
+  "title": "All Systems Red",
+  "number_of_pages": 156,
+  "covers": [8478857],
+  "publish_date": "May 02, 2017",
+  "key": "/books/OL26818660M",
+  "authors": [
+    {
+      "key": "/authors/OL221294A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL17914663W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {
+
+  },
+  "classifications": {
+
+  },
+  "table_of_contents": [
+    {
+      "level": 1,
+      "label": "",
+      "title": "Cover",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Title Page",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Copyright Notice",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Chapter One",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Chapter Two",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Chapter Three",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Chapter Four",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Chapter Five",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Chapter Six",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Chapter Seven",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Chapter Eight",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "About the Author",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Also by Martha Wells",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Contents",
+      "pagenum": ""
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Copyright Page",
+      "pagenum": ""
+    }
+  ],
+  "copyright_date": "2017",
+  "contributors": [
+    {
+      "role": "Cover Design",
+      "name": "Christine Foltzer"
+    },
+    {
+      "role": "Cover Art",
+      "name": "Jaime Jones"
+    },
+    {
+      "role": "Editor",
+      "name": "Lee Harris"
+    }
+  ],
+  "series": [
+    "The Murderbot Diaries, #1"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "first_sentence": "I COULD HAVE BECOME a mass murderer after I hacked my governor module, but then I realized I could access the combined feed of entertainment channels carried on the company satellites.",
+  "physical_format": "ebook",
+  "isbn_10": [
+    "0765397528"
+  ],
+  "isbn_13": [
+    "9780765397522"
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-03-28T18:56:08.017373"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-05-12T11:07:31.038716"
+  }
+}
